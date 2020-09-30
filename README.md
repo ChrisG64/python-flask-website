@@ -1,2 +1,2 @@
 # python-flask-website
- Simple websiter built using Flask
+ Simple website built using Flask
